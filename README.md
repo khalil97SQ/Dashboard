@@ -7,8 +7,6 @@ The project focuses on layout structure, responsive design, and well-organized c
 
 ## 📸 Dashboard Preview
 
-![Dashboard](./image/Dashboard.jpeg)
-
 A full overview of the dashboard interface containing statistics cards, yearly targets, latest tasks, uploads, reminders, social media sections, and a projects table — all styled using pure HTML & CSS.
 
 ---
