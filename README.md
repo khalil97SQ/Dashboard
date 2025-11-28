@@ -1,6 +1,7 @@
 # Sakura Dashboard
 
-A modern and clean admin dashboard built using HTML, CSS, and JavaScript.
+A clean and modern admin dashboard built using **HTML & CSS only**, designed to showcase a professional UI layout without any JavaScript functionality.  
+The project focuses on layout structure, responsive design, and well-organized components that simulate a real dashboard experience.
 
 ---
 
@@ -8,7 +9,7 @@ A modern and clean admin dashboard built using HTML, CSS, and JavaScript.
 
 ![Dashboard](./image/Dashboard.jpeg)
 
-The main dashboard screen that displays all important statistics, tasks, uploads, reminders, latest news, and project progress in one place.
+A full overview of the dashboard interface containing statistics cards, yearly targets, latest tasks, uploads, reminders, social media sections, and a projects table — all styled using pure HTML & CSS.
 
 ---
 
@@ -18,90 +19,84 @@ Below is a description of each page in the sidebar, with its preview image locat
 
 ---
 
-### 1️⃣ Dashboard
-
+### 1️⃣ Dashboard  
 ![Dashboard Page](./image/Dashboard.jpeg)
 
 **Description:**  
-The homepage of the system. Contains welcome message, yearly targets, tickets statistics, latest news, latest tasks, uploads, reminders, top search items, social stats, and project table.
+The main dashboard page displaying all essential UI elements: welcome header, yearly targets, tickets statistics, tasks list, news section, uploads, reminders, top search keywords, social media cards, and a projects table.
 
 ---
 
-### 2️⃣ Settings
-
+### 2️⃣ Settings  
 ![Settings Page](./image/Settings.jpeg)
 
 **Description:**  
-Page for managing all system and user settings including account preferences, security settings, notifications, privacy control, site preferences, and backup options.
+A static settings page designed using clean layout sections for managing account preferences, security options, notification controls, privacy settings, and system preferences — UI only, without functionality.
 
 ---
 
-### 3️⃣ Profile
-
+### 3️⃣ Profile  
 ![Profile Page](./image/Profile.jpeg)
 
 **Description:**  
-Displays the full user profile: personal information, job title, skills list, activities history, achievements, statistics, and account details.
+A detailed profile page that includes user info, skills, latest activities, statistics, and account details. The design focuses on clear structure and an organized card-based layout.
 
 ---
 
-### 4️⃣ Projects
-
+### 4️⃣ Projects  
 ![Projects Page](./image/Projects.jpeg)
 
 **Description:**  
-A full list of all projects with detailed information: project name, deadline, client, price, team members, and current status (pending, completed, in progress, rejected).
+A visually structured list of projects showing project name, deadline, team members, price, and status. Built entirely with HTML & CSS for clean and readable presentation.
 
 ---
 
-### 5️⃣ Courses
-
+### 5️⃣ Courses  
 ![Courses Page](./image/Courses.jpeg)
 
 **Description:**  
-Shows all available courses with thumbnails, instructor names, number of lessons, duration, and enrolled students. A clean grid layout to browse courses easily.
+A courses listing page displaying course thumbnails, instructors, lessons count, and duration. Designed using a responsive grid layout for smooth browsing.
 
 ---
 
-### 6️⃣ Friends
-
+### 6️⃣ Friends  
 ![Friends Page](./image/Friends.jpeg)
 
 **Description:**  
-A page that displays all friends in card format. Shows their profile information, job title, contact methods, last activity, and quick action buttons.
+A user-friendly friends page showing contact details, job titles, and quick-action buttons. Each friend card is styled to look clean, balanced, and responsive.
 
 ---
 
-### 7️⃣ Files
-
+### 7️⃣ Files  
 ![Files Page](./image/Files.jpeg)
 
 **Description:**  
-File manager showing all uploaded files grouped by type. Includes file size, upload date, uploader name, and quick download or delete actions. Also contains file statistics in the sidebar.
+A static file manager layout that groups files by type. Includes file size, upload date, and file icons — all structured using CSS without JavaScript.
 
 ---
 
-### 8️⃣ Plans
-
+### 8️⃣ Plans  
 ![Plans Page](./image/Plans.jpeg)
 
 **Description:**  
-Subscription plans page displaying three pricing tiers (Basic, Standard, Premium). Shows features included in each plan with highlighted differences and action buttons for upgrading.
+A pricing plans page featuring three subscription tiers (Basic, Standard, Premium). Each card highlights its included features with a simple and modern design.
 
 ---
 
 ## 🚀 Features
 
-- Fully responsive modern dashboard layout
-- Statistics widgets and progress bars
-- Tasks & project management system
-- File upload and file manager
-- Social media statistics cards
-- Notifications & reminders section
-- Clean and organized UI components
+- Fully responsive layout built with pure HTML & CSS  
+- Clean and modern UI components  
+- Organized cards and sections  
+- Dashboard-style interface without JavaScript  
+- Multi-page design following a consistent theme  
+- Smooth grid and flexbox structure  
 
 ---
 
-## 📁 Images Location
+## 📝 Author
 
-All preview images must be placed in:
+Developed by **Khalil Al-shourafa**.  
+
+All page previews are stored inside:
+
